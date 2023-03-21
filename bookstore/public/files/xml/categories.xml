@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><book_store><category>
+								<id>2</id>
+								<name>Kinh Tế</name>
+								<picture></picture>
+							</category><category>
+								<id>3</id>
+								<name>Tin học</name>
+								<picture></picture>
+							</category><category>
+								<id>5</id>
+								<name>Thiếu Nhi</name>
+								<picture></picture>
+							</category><category>
+								<id>6</id>
+								<name> Thường Thức - Đời Sống</name>
+								<picture></picture>
+							</category><category>
+								<id>7</id>
+								<name>Ngoại Ngữ - Từ Điển</name>
+								<picture></picture>
+							</category><category>
+								<id>8</id>
+								<name>Truyện Tranh</name>
+								<picture></picture>
+							</category></book_store>
